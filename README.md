@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on [my-vue3]
+- 🔭 I’m currently working on [my-vue3](https://github.com/wuyifan0203/my-vue3/)
 
 - 🌱 I’m currently learning **TypeScript,Go**
 
