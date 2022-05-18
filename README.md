@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuyifan0203" alt="wuyifan0203" /></a> </p>
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffffx&hide_title=true" />
-
 - 🔭 I’m currently working on [my-vue3](https://github.com/wuyifan0203/my-vue3/)
 
 - 🌱 I’m currently learning **TypeScript,Go**
@@ -28,7 +25,9 @@
 
 - ⚡ Fun fact: **Math, Algorithms, Data structures**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyifan0203&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&exclude_repo=pplmx.github.io,pplmx.main,caoyu.info,yoooo.fun,vimConfig,hexo-pwa,hugo-theme-next" alt="wuyifan0203" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffffx&hide_title=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyifan0203&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true" alt="wuyifan0203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&locale=en" alt="wuyifan0203" /></p>
 
