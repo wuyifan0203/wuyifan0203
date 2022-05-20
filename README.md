@@ -26,7 +26,7 @@
 - ⚡ Fun fact: **Math, Algorithms, Data structures**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CDDCDC&text_color=ffffff&bg_color= 3.14,209cff,68e0cf&hide_title=true&theme=dark&card_width=140" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CDDCDC&text_color=ffffff&bg_color= 3.14,209cff,68e0cf&hide_title=true&theme=dark&card_width=140px" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyifan0203&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&bg_color=-3.14,FFFEFF,dfe9f3" alt="wuyifan0203" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&locale=en&bg_color= -4.45,FFFEFF,D7FFFE" alt="wuyifan0203" />
 </p>
