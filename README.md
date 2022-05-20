@@ -41,7 +41,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -77,8 +78,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyifan0203&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&bg_color=-3.14,FFFEFF,dfe9f3" alt="wuyifan0203" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&locale=en&bg_color= -4.45,FFFEFF,D7FFFE" alt="wuyifan0203" />
 </p>
-
-<p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wuyifan0203&" alt="wuyifan0203" /></p>
 
