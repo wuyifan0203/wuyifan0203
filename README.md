@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:50px;" />
-</div>  
-<h1 align="center">Hi 👋, I'm wuyifan</h1>
+ <h1 align="center">Hi 👋, I'm wuyifan</h1>
 <h3 align="center">道可道,非常道 名可名,非常名</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuyifan0203&label=Profile%20views&color=0e75b6&style=flat" alt="wuyifan0203" /> </p>
