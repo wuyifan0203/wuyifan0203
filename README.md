@@ -15,36 +15,26 @@
 
 - 💬 Ask me about **JavaScript, TypeScript**
 
-// - 📝 I regularly write articles on [http://www.naraku.top/](http://www.naraku.top/)
-
-// - 📫 How to reach me **http://www.naraku.top/**
-
-// - 📄 Know about my experiences [http://www.naraku.top/](http://www.naraku.top/)
-
 - 😄 Pronouns: **naraku** or **奈落**
 
 - ⚡ Fun fact: **Math, Algorithms, Data structures**
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-<br/>  
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/>
+ <img style="margin: 10px" src="https://threejs.org/files/favicon.ico" alt="jest" height="50"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -56,24 +46,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-</td></tr></table>  
+</td></tr>
+</table>  
 
 <br/>  
-
-### test iframe
-
-<iframe width="500" height="350" src="https://wuyifan0203.github.io/threejs-demo/src/cannon/heightField.html"></iframe>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CDDCDC&text_color=ffffff&bg_color= 3.14,209cff,68e0cf&hide_title=true&theme=dark" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyifan0203&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&bg_color=-3.14,FFFEFF,dfe9f3" alt="wuyifan0203" />
