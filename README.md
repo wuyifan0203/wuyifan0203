@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuyifan0203" alt="wuyifan0203" /></a> </p>
 
-- 🔭 I’m currently working on [my-vue3](https://github.com/wuyifan0203/my-vue3/)
+- 🔭 I’m currently working on [my-vue3](https://github.com/wuyifan0203/my-vue3/) & [threejs-demo](https://github.com/wuyifan0203/threejs-demo)
 
-- 🌱 I’m currently learning **TypeScript,Go**
+- 🌱 I’m currently learning **TypeScript, GLSL ,WebGL**
 
 - 👯 I’m looking to collaborate on **Social software**
 
 - 🤔 I’m looking for help with **Computer Graphics**
 
-- 💬 Ask me about **JavaScript, TypeScript, Go**
+- 💬 Ask me about **JavaScript, TypeScript**
 
-- 📝 I regularly write articles on [http://www.naraku.top/](http://www.naraku.top/)
+// - 📝 I regularly write articles on [http://www.naraku.top/](http://www.naraku.top/)
 
-- 📫 How to reach me **http://www.naraku.top/**
+// - 📫 How to reach me **http://www.naraku.top/**
 
-- 📄 Know about my experiences [http://www.naraku.top/](http://www.naraku.top/)
+// - 📄 Know about my experiences [http://www.naraku.top/](http://www.naraku.top/)
 
 - 😄 Pronouns: **naraku** or **奈落**
 
@@ -69,6 +69,10 @@
 </td></tr></table>  
 
 <br/>  
+
+### test iframe
+
+<iframe width="500" height="350" src="https://wuyifan0203.github.io/threejs-demo/src/cannon/heightField.html"></iframe>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wuyifan0203&show_icons=true&icon_color=CDDCDC&text_color=ffffff&bg_color= 3.14,209cff,68e0cf&hide_title=true&theme=dark" /></p>
